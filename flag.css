@@ -1,0 +1,22 @@
+.m{
+    border: 1px solid rgb(240, 230, 230);
+    display: inline-block;
+}
+.a{
+    background-color: #00a650;
+    height: 140px;
+    width: 60px;
+    display: inline-block;
+}
+.b{
+    height: 140px;
+    width: 60px;
+    background-color:white ;
+    display: inline-block;
+}
+.c{
+    display: inline-block;
+    height: 140px;
+    width: 60px;
+    background-color: #ed1b24;
+}
